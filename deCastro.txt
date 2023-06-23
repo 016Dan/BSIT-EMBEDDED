@@ -1,5 +1,6 @@
 Today here will I add my parts from the group reporting, as follows:
 1. Applications of Embedded Systems:
+
 In many diverse goods, equipment, including sophisticated processes, including artificial intelligence (AI) 
 and machine learning applications, embedded systems have an essential function. Today, embedded devices and 
 software have an essential function in the operation of vehicles, household appliances, personal electronics, 
