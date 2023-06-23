@@ -9,10 +9,7 @@ applications are now found in every sector and industry.
 Examples of applications of embedded systems as follows:
 Personal Electronics:
 ● Smartphones - Call handling, interface design, camera systems, and smart sensors are all powered by embedded systems.
-● Gaming consoles - The gameplay features including interface design in well-known video game consoles are provided by embedded systems.
-In a case study, Xbox One is able to provide immersive gaming experiences, Microsoft's Xbox One gaming console uses an embedded technology. 
-The gameplay processing, graphics rendering, audio output, as well as interface of the system are all handled by the embedded system, 
-which is smoothly incorporated into the console.
+
 
 
 
