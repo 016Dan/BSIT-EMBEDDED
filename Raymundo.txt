@@ -2,7 +2,7 @@ Challenges and the future of embedded system:
 
 Embedded systems encounter a number of challenges that must be addressed during the design, development, and deployment processes. Here are some common issues and challenges  with embedded systems.
 
----------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 Power management - 
 
@@ -13,7 +13,8 @@ Power management -
 'Fault tolerance and dependability - 
 
 -------------------------------------------------------------------------
-Future or emerging trends in Embedded system.
+
+Future or emerging trends in Embedded system:
 
 'Artificial Intelligence (AI) and Machine Learning (ML) - 
 
@@ -23,5 +24,8 @@ Future or emerging trends in Embedded system.
 
 'Software-Defined Systems - 
 
+-------------------------------------------------------------------------
+
+Summary/ Conclusion:
 
 
