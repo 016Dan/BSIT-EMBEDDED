@@ -6,9 +6,22 @@ Embedded systems encounter a number of challenges that must be addressed during 
 
 Power management - 
 
-Vulnerabilities in security - 
+'Vulnerabilities in security - 
 
-Integration of hardware and software - 
+'Integration of hardware and software - 
 
-Fault tolerance and dependability - 
+'Fault tolerance and dependability - 
+
+-------------------------------------------------------------------------
+Future or emerging trends in Embedded system.
+
+'Artificial Intelligence (AI) and Machine Learning (ML) - 
+
+'Enhancements to cybersecurity - 
+
+'Energy Efficiency and Sustainability -
+
+'Software-Defined Systems - 
+
+
 
