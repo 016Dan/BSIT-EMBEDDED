@@ -13,4 +13,8 @@ hand, the software component comprises the embedded operating system, device dri
 software components work together to enable the embedded system to carry out its designated functions. The software is typically highly
 specialized, designed to cater specifically to the unique purpose served by the embedded system.
 
-Embedded systems use the communication ports to transmit data between the processor and peripheral devices often, other Embedded systems use a communication protocol. Embedded systems can be found in a wide range of devices, including industrial machines, consumer electronics, agricultural and processing industry devices, automobiles, medical equipment, cameras, digital watches, household appliances, airplanes, vending machines, toys, and even mobile devices. These embedded systems play a crucial role in managing and controlling specific functions or tasks within these devices, enabling functionality, and providing automation.
+Embedded systems use the communication ports to transmit data between the processor and peripheral devices often, other Embedded systems
+use a communication protocol. Embedded systems can be found in a wide range of devices, including industrial machines, consumer electronics,
+agricultural and processing industry devices, automobiles, medical equipment, cameras, digital watches, household appliances, airplanes,
+vending machines, toys, and even mobile devices. These embedded systems play a crucial role in managing and controlling specific functions
+or tasks within these devices, enabling functionality, and providing automation.
