@@ -28,4 +28,6 @@ Future or emerging trends in Embedded system:
 
 Summary/ Conclusion:
 
+Embedded systems have become an integral part of today's technology landscape, playing a vital role across multiple industries. This study aims to provide a comprehensive overview of embedded systems, covering their definition, characteristics, components, architecture, design process, applications, challenges, and future trends.
+
 
