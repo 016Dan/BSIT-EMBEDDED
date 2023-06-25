@@ -7,3 +7,4 @@ device. Embedded systems may also function within a larger system. The systems c
 systems play a critical role in a wide range of products, machines, and intelligent operations, including applications involving machine
 learning and artificial intelligence.
 
+The hardware component of an embedded system consists of essential components such as microprocessors or microcontrollers, memory, input/output interfaces, sensors, actuators, and other peripheral devices tailored to the specific application's requirements. On the other hand, the software component comprises the embedded operating system, device drivers, application-specific software, and firmware. These software components work together to enable the embedded system to carry out its designated functions. The software is typically highly specialized, designed to cater specifically to the unique purpose served by the embedded system.
