@@ -4,7 +4,8 @@ Embedded systems encounter a number of challenges that must be addressed during 
 
 -------------------------------------------------------------------------
 
-Power management - 
+Power management - is critical for many embedded systems, especially those powered by batteries or depending on energy harvesting. It is difficult to reduce power consumption while retaining system functioning and performance. To optimize power consumption, techniques such as power gating, clock gating, and dynamic voltage scaling are frequently used.
+
 
 'Vulnerabilities in security - 
 
@@ -27,5 +28,7 @@ Future or emerging trends in Embedded system:
 -------------------------------------------------------------------------
 
 Summary/ Conclusion:
+
+Embedded systems have become an integral part of today's technology landscape, playing a vital role across multiple industries. This study aims to provide a comprehensive overview of embedded systems, covering their definition, characteristics, components, architecture, design process, applications, challenges, and future trends.
 
 
