@@ -19,3 +19,11 @@ Modular Design - Separate module designs must be made so that they can be used l
 Mapping - Based on software mapping is done. For example, data flow and program flow are mapped into one.
 User Interface Design - In user interface design it depends on user requirements, environment analysis and function of the system. For example, on a mobile phone if we want to reduce the power consumption of mobile phones we take care of other parameters, so that power consumption can be reduced.
 Refinement - Every component and module must be refined appropriately so that the software team can understand. Architectural description language is used to describe the software design.
+
+Ethical Considerations in Designing and Developing Embedded Systems
+
+Privacy and Data Protection: Embedded systems often handle sensitive data, necessitating robust security measures and transparent data collection practices to protect individuals' privacy rights.
+Bias and Fairness: Designing devices free from biases ensures fairness and equal treatment for all individuals, promoting inclusivity and preventing discrimination.
+Accountability and Responsibility: Implementing mechanisms for error reporting and clear delineation of responsibilities enhances accountability and minimizes potential harm caused by embedded systems.
+Social Impact: Considering the broader social implications of embedded systems, such as their effects on employment, inequality, and public safety, is crucial to ensure responsible design and address potential challenges.
+

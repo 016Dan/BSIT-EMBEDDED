@@ -1,4 +1,9 @@
 INTRODUCTION TO EMBEDDED SYSTEM
 
 Nowadays, Embedded systems are everywhere! Gotta curious why?
-An Embedded System is a combination of computer hardware and software components tightly integrated to control and monitor the operations of the device it is embedded in. The term "embedded" signifies that these systems are always functioning as an integral part of a complete device. Embedded systems may also function within a larger system. The systems can be programmable or have a fixed functionality. Embedded systems play a critical role in a wide range of products, machines, and intelligent operations, including applications involving machine learning and artificial intelligence.
+An Embedded System is a combination of computer hardware and software components tightly integrated to control and monitor the operations
+of the device it is embedded in. The term "embedded" signifies that these systems are always functioning as an integral part of a complete
+device. Embedded systems may also function within a larger system. The systems can be programmable or have a fixed functionality. Embedded
+systems play a critical role in a wide range of products, machines, and intelligent operations, including applications involving machine
+learning and artificial intelligence.
+
