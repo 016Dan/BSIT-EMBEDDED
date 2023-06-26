@@ -24,4 +24,7 @@ Prominent technology companies, such as Apple, IBM, Intel, and Texas Instruments
 These companies contribute to the growth of embedded systems, which is fueled in part by ongoing investments in areas like artificial
 intelligence (AI), mobile computing, and the demand for chips capable of handling high-level processing.
 
-For texas instruments there are msp430, microchip PIC, and ATmel ATmega family but mostly people working in Embedded System recommend msp430 because it has a great selection of microcontrollers, and according to them  it has a great community online, and also texas instruments offers a lot of documentation and great examples for each and every peripheral that the microcontroller has and this includes code examples and documentation.
+For texas instruments there are msp430, microchip PIC, and ATmel ATmega family but mostly people working in Embedded System recommend
+msp430 because it has a great selection of microcontrollers, and according to them  it has a great community online, and also texas
+instruments offers a lot of documentation and great examples for each and every peripheral that the microcontroller has and this includes
+code examples and documentation.
