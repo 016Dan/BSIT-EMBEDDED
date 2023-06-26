@@ -1,1 +1,1 @@
-Fundamental of embedded system 
+Fundamental and roles of embedded system
