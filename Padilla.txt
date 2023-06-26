@@ -20,4 +20,6 @@ agricultural and processing industry devices, automobiles, medical equipment, ca
 vending machines, toys, and even mobile devices. These embedded systems play a crucial role in managing and controlling specific functions
 or tasks within these devices, enabling functionality, and providing automation.
 
-Prominent technology companies, such as Apple, IBM, Intel, and Texas Instruments, are among the chip manufacturers for embedded systems. These companies contribute to the growth of embedded systems, which is fueled in part by ongoing investments in areas like artificial intelligence (AI), mobile computing, and the demand for chips capable of handling high-level processing.
+Prominent technology companies, such as Apple, IBM, Intel, and Texas Instruments, are among the chip manufacturers for embedded systems.
+These companies contribute to the growth of embedded systems, which is fueled in part by ongoing investments in areas like artificial
+intelligence (AI), mobile computing, and the demand for chips capable of handling high-level processing.
