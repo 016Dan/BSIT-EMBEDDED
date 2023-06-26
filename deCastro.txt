@@ -1,6 +1,5 @@
 Today, I will add my part as follows:
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Applications of Embedded Systems:
 
 In many diverse goods, equipment, including sophisticated processes, including artificial intelligence (AI) 
@@ -8,22 +7,21 @@ and machine learning applications, embedded systems have an essential function.
 Today, embedded devices and software have an essential function in the operation of vehicles, household appliances, personal electronics, 
 medical equipments as well as other technology we use on a daily basis. This is due to the fact that embedded systems
 applications are now found in every sector and industry.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Examples of applications of embedded systems as follows:
-
 
 Personal Electronics:
 ● Smartphones - Call handling, interface design, camera systems, and smart sensors are all powered by embedded systems.
 ● Gaming consoles - The gameplay features including interface design in well-known video game consoles are provided by embedded systems.
 
 In a case study, Xbox One is able to provide immersive gaming experiences, Microsoft's Xbox One gaming console uses an embedded technology. The gameplay processing, graphics rendering, audio output, as well as interface of the system are all handled by the embedded system, which is smoothly incorporated into the console.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Medical Devices:
 ● Pacemakers - Embedded systems that track activity of the heart and send electrical impulses towards people who are suffering cardiac problems to control heartbeats.
 ● Ultrasound Scanners - In medical imaging systems such as this, embedded systems are in charge of processing and displaying medical pictures. Other medical imaging is: X-ray scanners and MRI systems.
 
 In a case study, Medtronic Insulin Pump is able to give exact insulin doses depending upon real-time blood sugar levels, these kinds of medical devices use embedded systems. The embedded system helps to verify blood sugar levels and modifies delivery of insulin to assist patients to better control their diabetes.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Household Devices:
 ● Microwave ovens - Embedded systems that manage timers, temperature controls, cookery programs, as well as safety systems in these appliances.
 ● Coffee Makers - Brew procedures, temperature of the water, as well as customizing alternatives are all controlled by embedded systems.
