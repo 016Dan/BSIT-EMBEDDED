@@ -9,3 +9,17 @@
 'Labrado, Ronald Jr
 'Padilla, Angelo
 
+-------------------------------------------------------------------------
+
+Objective of the topic:
+
+The goals of this embedded systems report are to provide a thorough overview of embedded systems, investigate their components and architecture, describe the design and development process, evaluate their applications and case studies, and identify obstacles and future trends.
+It also covers embedded system applications in automotive, consumer electronics, healthcare devices, industrial automation, and smart home technology.  
+
+Furthermore, the topic discusses the process of creating embedded systems, including requirements analysis, system architecture, hardware selection, and software development utilizing embedded-specific programming languages and tools.
+
+-------------------------------------------------------------------------
+
+Scope of the topic:
+This aims to promote an overview on the topic of embedded systems.
+The overall goal of this is to give knowledge and enhance the learners perspective towards embedded systems.

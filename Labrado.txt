@@ -1,3 +1,1 @@
-Fundamental, Architecure, Roles 
-
-
+Fundamental of embedded system 
