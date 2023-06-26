@@ -7,11 +7,14 @@ Embedded systems encounter a number of challenges that must be addressed during 
 Power management - is critical for many embedded systems, especially those powered by batteries or depending on energy harvesting. It is difficult to reduce power consumption while retaining system functioning and performance. To optimize power consumption, techniques such as power gating, clock gating, and dynamic voltage scaling are frequently used.
 
 
-'Vulnerabilities in security - 
+'Vulnerabilities in security - Embedded systems are vulnerable to security risks such as unauthorized access, data breaches, and system manipulation. Embedded system security entails integrating strong authentication, encryption, and access control techniques, as well as addressing potential vulnerabilities at both the hardware and software levels.
 
-'Integration of hardware and software - 
 
-'Fault tolerance and dependability - 
+'Integration of hardware and software - Embedded systems frequently combine hardware and software parts. Careful planning and execution are needed to coordinate the behavior of various hardware peripherals, drivers, and the operating system. When working with several hardware platforms, integrating software components like device drivers with the hardware can be challenging.
+
+
+'Fault tolerance and dependability -  Many embedded systems are used in crucial applications where errors can have serious repercussions.  It's essential to guarantee fault tolerance and dependability. To increase system resilience, design elements including redundancy, error detection, correction, and fault recovery techniques must be used.
+
 
 -------------------------------------------------------------------------
 
