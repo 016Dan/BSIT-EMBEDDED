@@ -1,7 +1,1 @@
-Fundamental of Embedded system 
-
-Compononet of embedded system 
-
-Microcontroller or Microprocessor - is responsible for executing program intructions and performing the necessary computation 
-
-
+Fundamental of embedded system 
