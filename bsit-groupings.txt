@@ -169,4 +169,10 @@ Software-Defined Systems -  The software-defined approach, which enables more fl
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Literature review:
+Embedded system design is crucial for the development of industry, technology, and science, and it is an area that has significantly grown in recent years, both in academia and in industry. Embedded System (ES) refers to electronic equipment with a computing core which, unlike a personal computer, is designed to meet a specific function and is usually optimized to satisfy strict requirements of processing time, reliability, power consumption, size, and cost. With the advancement of research on the domains of Internet of Things (IoT), Computing Edge (CE) and Cloud Computing (CC) and their endless application possibilities, ESs have gained new roles and assumed unquestionable importance in our daily lives.
+Published in: IEEE Latin America Transactions ( Volume: 18, Issue: 02, February 2020)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
