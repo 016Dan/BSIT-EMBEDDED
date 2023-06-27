@@ -1,1 +1,7 @@
-Fundamental and roles of embedded system
+Fundamentals:
+
+Embedded systems are computer systems designed to perform specific tasks within larger systems. They are specialized for a certain purpose and are frequently integrated with other systems or devices. These systems are unique architecture and set parts allow them to do the task for which they were designed. 
+
+ Component of Embedded system:
+
+Microcontroller or Microprocessor - The central processing unit of an embedded system is usually a microcontroller or microprocessor.  These components execute the program instructions and perform the necessary computation.  
