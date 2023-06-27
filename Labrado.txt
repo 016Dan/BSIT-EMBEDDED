@@ -1,4 +1,4 @@
-Fundamental:
+ Fundamental:
 
 Embedded systems are computer systems designed to perform specific tasks within larger systems. They are specialized for a certain purpose and are frequently integrated with other systems or devices. These systems are unique architecture and set parts allow them to do the task for which they were designed. 
 
