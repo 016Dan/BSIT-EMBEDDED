@@ -48,4 +48,7 @@ Texas Instruments developed the first microcontroller in 1971, which was the TMS
 available in 1974, included a 4-bit processor, read-only memory (ROM), and random-access memory (RAM), costing approximately $2 each
 when ordered in bulk.
 
-In 1971, Intel introduced the 4004, widely regarded as the first commercially available processor. This 4-bit microprocessor was primarily designed for calculators and small electronic devices, although it required additional memory and support chips. Intel followed up in 1972 with the 8-bit Intel 8008, which featured 16 KB of memory, and in 1974 with the Intel 8080, which had 64 KB of memory. The Intel 8080's successor, the x86 series, was released in 1978 and remains widely used today.
+In 1971, Intel introduced the 4004, widely regarded as the first commercially available processor. This 4-bit microprocessor was
+primarily designed for calculators and small electronic devices, although it required additional memory and support chips. Intel
+followed up in 1972 with the 8-bit Intel 8008, which featured 16 KB of memory, and in 1974 with the Intel 8080, which had 64 KB of
+memory. The Intel 8080's successor, the x86 series, was released in 1978 and remains widely used today.
