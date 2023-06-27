@@ -32,4 +32,7 @@ code examples and documentation.
 
 HISTORY OF EMBEDDED SYSTEM
 
-Embedded systems have a rich history that spans several decades. Embedded systems have a history dating back to the 1960s. One notable development during that time was Charles Stark Draper's creation of an integrated circuit in 1961. This circuit was designed to reduce the size and weight of the Apollo Guidance Computer, which was responsible for digital operations on the Apollo Command Module and Lunar Module. The integration of this circuit into the computer helped astronauts gather real-time flight data.
+Embedded systems have a rich history that spans several decades. Embedded systems have a history dating back to the 1960s. One notable
+development during that time was Charles Stark Draper's creation of an integrated circuit in 1961. This circuit was designed to reduce
+the size and weight of the Apollo Guidance Computer, which was responsible for digital operations on the Apollo Command Module and Lunar
+Module. The integration of this circuit into the computer helped astronauts gather real-time flight data.
