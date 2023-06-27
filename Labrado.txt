@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fundamentals:
 
 Embedded systems are computer systems designed to perform specific tasks within larger systems. They are specialized for a certain purpose and are frequently integrated with other systems or devices. These systems are unique architecture and set parts allow them to do the task for which they were designed. 
@@ -16,3 +17,6 @@ Application layer - interacts with firmware layer and makes use of its low-level
 
 Roles in Embedded system:
 
+=======
+
+>>>>>>> 67a2c7835871425f072dd860d56fd1eb1375dafe
