@@ -17,6 +17,11 @@ Application layer - interacts with firmware layer and makes use of its low-level
 
 Roles in Embedded system:
 
+Firmware/Software engineer - is responsible for developing and implementing the software components that control and manage the functionality of the embedded system. They work closely with hardware engineers, firmware developers, and other team members to create software solutions that interact with the underlying hardware.
+
+Hardware engineer - responsible for designing, creating and testing the system and hardware that goes into an embedded system. They collaborate closely with firmware developers, software engineers, and other team members to produce effective embedded systems. 
+
+
 =======
 
 >>>>>>> 67a2c7835871425f072dd860d56fd1eb1375dafe
