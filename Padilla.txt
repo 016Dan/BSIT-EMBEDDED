@@ -43,4 +43,7 @@ with the NS-17 missile guidance system, which extensively utilized integrated ci
 the Volkswagen 1600 became the first vehicle to incorporate an embedded system, using a microprocessor to control its electronic fuel
 injection system.
 
-During the late 1960s and early 1970s, the cost of integrated circuits decreased, leading to a significant increase in their usage. Texas Instruments developed the first microcontroller in 1971, which was the TMS1000 series. These microcontrollers, commercially available in 1974, included a 4-bit processor, read-only memory (ROM), and random-access memory (RAM), costing approximately $2 each when ordered in bulk.
+During the late 1960s and early 1970s, the cost of integrated circuits decreased, leading to a significant increase in their usage.
+Texas Instruments developed the first microcontroller in 1971, which was the TMS1000 series. These microcontrollers, commercially
+available in 1974, included a 4-bit processor, read-only memory (ROM), and random-access memory (RAM), costing approximately $2 each
+when ordered in bulk.
