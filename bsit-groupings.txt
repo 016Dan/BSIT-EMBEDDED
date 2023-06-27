@@ -44,5 +44,29 @@ The year 1987 saw the release of the first embedded operating system called VxWo
 
 -------------------------------------------------------------------------
 
+Fundamentals: - LABRADO
+
+Embedded systems are computer systems designed to perform specific tasks within larger systems. They are specialized for a certain purpose and are frequently integrated with other systems or devices. These systems are unique architecture and set parts allow them to do the task for which they were designed. 
+
+ Component of Embedded system:
+
+Microcontroller or Microprocessor - The central processing unit of an embedded system is usually a microcontroller or microprocessor.  These component execute the program instructions and perform the necessary computation  
+
+Memory - Embedded systems have different types of memory to store program instruction, data and variables. This includes read-only memory (ROM) for storing the firmware or program code permanently, random-access memory (RAM) for temporary data storage, and non-volatile memory like flash memory  for data retention.
+
+Embedded system architecture: 
+
+Firmware layer - is in charge of managing the hardware peripherals which may include communication interfaces, timers, interrupts, analog and digital converters, and input/output interfaces. It works directly with the hardware parts, employing its capabilities to do particular tasks.
+
+Application layer - interact with firmware layer and makes use of its low-level functionality and hardware control to carry out the activities that the system is designed to do. It provides a high-level software interface for developers to implement the particular features and behaviors of the embedded system while abstracting the complexity of the lower layers.
+Roles in Embedded system:
+
+
+Firmware/Software engineer - is responsible for developing and implementing the software components that control and manage the functionality of the embedded system. They work closely with hardware engineers, firmware developers, and other team members to create software solutions that interact with the underlying hardware.
+
+Hardware engineer - responsible for designing, creating and testing the system and hardware that go into an embedded system. They collaborate closely with firmware developers, software engineers, and other team members to produce effective embedded systems. 
+
+-------------------------------------------------------------------------
+
 
 
