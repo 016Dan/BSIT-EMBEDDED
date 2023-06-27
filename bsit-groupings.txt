@@ -193,3 +193,28 @@ When designing embedded systems, requirements, system architecture, hardware sel
 
 As embedded systems develop, more intelligent, networked devices and systems will be possible in a variety of industries. The full potential of embedded systems in fostering a more connected and technologically evolved world will be unlocked by addressing development hurdles, encouraging collaboration, and adjusting to changing trends. It is recommended that this research may be carried out by understanding it alongside mastering the technological advances that drive the embedded systems. Subsequently it is additionally suggested that the field be significantly improved. In doing so, it may benefit others as well as yourself because it gives the topic the flexibility and efficiency necessary to be able to regulate a particular function within the device in question. It can also learn more about embedded systems and find new ways to improve your understanding of them.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+References:
+
+Blumenscheid, B. (2021, June 4). 10 real life examples of embedded systems. Digi International.  https://www.digi.com/blog/post/examples-of-embedded-systems
+Daniel, B. (2022, March 24). What are embedded systems?. Trusted Computing Innovator. https://www.trentonsystems.com/blog/what-are-embedded-systems#:~:text=Digital%20cameras,washing%20machines%2C%20and%20microwave%20ovens
+TomaszHajduk. (2022, December 8). Embedded systems – examples of application: Blog solwit. Solwit. https://solwit.com/en/posts/embedded-systems-examples-of-application/
+Ben Lutkevich. (2023). Definition: Embedded System.
+https://www.techtarget.com/iotagenda/definition/embedded-system 
+
+Challenges and issues of embedded software development. Infopulse. (2023, January 13). 
+https://www.infopulse.com/blog/challenges-and-issues-of-embedded-software-development
+
+Kotunov, V. (2022, December 8). Address the challenges of embedded project development with the US. N. 
+https://www.n-ix.com/address-challenges-of-embedded-project-development/
+ 
+Bisinfotech. (2021, June 16). Top 5 trends in Embedded System Technology. Bisinfotech. https://www.bisinfotech.com/top-5-trends-in-embedded-system-technology/
+
+TomaszHajduk. (2023, May 22). The future of embedded systems for 2023 - forecasts and trends: Blog Solwit. Solwit. https://solwit.com/en/posts/the-future-of-embedded-systems-for-2023-forecasts-and-trends/
+
+Agarwal, T. (2020, April 21). Embedded System Design :Types, Design Process, and Its Examples. ElProCus - Electronic Projects for Engineering Students. https://www.elprocus.com/embedded-system-design/
+
+A Literature Review on Embedded Systems. (2020, February 1). IEEE Journals & Magazine | IEEE
+https://ieeexplore.ieee.org/document/9085271
+
