@@ -29,6 +29,7 @@ msp430 because it has a great selection of microcontrollers, and according to th
 instruments offers a lot of documentation and great examples for each and every peripheral that the microcontroller has and this includes
 code examples and documentation.
 
+-----------------------------------------------------------
 
 HISTORY OF EMBEDDED SYSTEM
 
