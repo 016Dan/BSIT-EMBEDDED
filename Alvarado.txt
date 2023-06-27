@@ -3,14 +3,18 @@ Design and Development
 Embedded systems have become an integral part of our daily lives, powering devices ranging from smartphones to smart home appliances.
 The objective of this report is to provide a comprehensive understanding of the design process, the step of the development, and OS 
 comparison that will be used in theembedded system.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Here are the 4 types of Embedded System
 
 Stand-Alone Embedded System
 Real-Time Embedded System
 Networked Appliances
 Mobile devices
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Steps in the Embedded System Design Process
 
 Abstraction -- In this stage the problem related to the system is abstracted.
@@ -31,7 +35,9 @@ so that power consumption can be reduced.
 
 Refinement -- Every component and module must be refined appropriately so that the software team can understand. Architectural 
 description language is used to describe the software design.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Ethical Considerations in Designing and Developing Embedded Systems
 
 Privacy and Data Protection -- Embedded systems often handle sensitive data, necessitating robust security measures and transparent data 
@@ -53,3 +59,16 @@ and public safety, is crucial to ensure responsible design and address potential
        Android                  Feature-rich, extensive app ecosystem       Broad device compatibility, user-friendly        Higher resource requirements, limited real-time
       FreeRTOS                   Small memory footprint, real-time            Widely used, determinism, lightweight            Limited tooling and debugging capabilities
         QNX                         Reliability, high performance           Robust message-passing, safety-critical              Limited hardware and software support
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Literature review:
+
+Embedded system design is crucial for the development of industry, technology, and science, and it is an area that has significantly
+grown in recent years, both in academia and in industry. Embedded System (ES) refers to electronic equipment with a computing core which,
+unlike a personal computer, is designed to meet a specific function and is usually optimized to satisfy strict requirements of processing t
+ime, reliability, power consumption, size, and cost. With the advancement of research on the domains of Internet of Things (IoT), 
+Computing Edge (CE) and Cloud Computing (CC) and their endless application possibilities, ESs have gained new roles and assumed unquestionable 
+importance in our daily lives.
+
+Published in: IEEE Latin America Transactions ( Volume: 18, Issue: 02, February 2020)
+
