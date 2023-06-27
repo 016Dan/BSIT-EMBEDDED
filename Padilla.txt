@@ -36,3 +36,5 @@ Embedded systems have a rich history that spans several decades. Embedded system
 development during that time was Charles Stark Draper's creation of an integrated circuit in 1961. This circuit was designed to reduce
 the size and weight of the Apollo Guidance Computer, which was responsible for digital operations on the Apollo Command Module and Lunar
 Module. The integration of this circuit into the computer helped astronauts gather real-time flight data.
+
+In 1965, Autonetics (now part of Boeing) developed the D-17B computer for the Minuteman I missile guidance system. This computer is widely recognized as the first mass-produced embedded system. When the Minuteman II entered production in 1966, the D-17B was replaced with the NS-17 missile guidance system, which extensively utilized integrated circuits. Another notable milestone occurred in 1968 when the Volkswagen 1600 became the first vehicle to incorporate an embedded system, using a microprocessor to control its electronic fuel injection system.
