@@ -2,6 +2,7 @@
 'Emerging Technologies
 
 'EMBEDDED SYSTEM
+'BSIT-NS-2AB
 
 'Raymundo, Edan Fher
 'Alvarado, Nolly
