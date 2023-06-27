@@ -2,6 +2,7 @@
 'Emerging Technologies
 
 'EMBEDDED SYSTEM
+'BSIT-NS-2AB
 
 'Raymundo, Edan Fher
 'Alvarado, Nolly
@@ -9,17 +10,212 @@
 'Labrado, Ronald Jr
 'Padilla, Angelo
 
--------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Objective of the topic:
+'Objective of the topic:
 
 The goals of this embedded systems report are to provide a thorough overview of embedded systems, investigate their components and architecture, describe the design and development process, evaluate their applications and case studies, and identify obstacles and future trends.
 It also covers embedded system applications in automotive, consumer electronics, healthcare devices, industrial automation, and smart home technology.  
 
 Furthermore, the topic discusses the process of creating embedded systems, including requirements analysis, system architecture, hardware selection, and software development utilizing embedded-specific programming languages and tools.
 
--------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Scope of the topic:
+'Scope of the topic:
 This aims to promote an overview on the topic of embedded systems.
 The overall goal of this is to give knowledge and enhance the learners perspective towards embedded systems.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+'Introduction:  - PADILLA
+Nowadays, Embedded systems are everywhere! Gotta curious why?
+An Embedded System is a combination of computer hardware and software components tightly integrated to control and monitor the operations of the device it is embedded in. The term "embedded" signifies that these systems are always functioning as an integral part of a complete device. Embedded systems may also function within a larger system. The systems can be programmable or have a fixed functionality. Embedded systems play a critical role in a wide range of products, machines, and intelligent operations, including applications involving machine learning and artificial intelligence. 
+The hardware component of an embedded system consists of essential components such as microprocessors or microcontrollers, memory, input/output interfaces, sensors, actuators, and other peripheral devices tailored to the specific application's requirements. On the other hand, the software component comprises the embedded operating system, device drivers, application-specific software, and firmware. These software components work together to enable the embedded system to carry out its designated functions. The software is typically highly specialized, designed to cater specifically to the unique purpose served by the embedded system.
+ Embedded systems use the communication ports to transmit data between the processor and peripheral devices often, other Embedded systems use a communication protocol. Embedded systems can be found in a wide range of devices, including industrial machines, consumer electronics, agricultural and processing industry devices, automobiles, medical equipment, cameras, digital watches, household appliances, airplanes, vending machines, toys, and even mobile devices. These embedded systems play a crucial role in managing and controlling specific functions or tasks within these devices, enabling functionality, and providing automation.
+Prominent technology companies, such as Apple, IBM, Intel, and Texas Instruments, are among the chip manufacturers for embedded systems. These companies contribute to the growth of embedded systems, which is fueled in part by ongoing investments in areas like artificial intelligence (AI), mobile computing, and the demand for chips capable of handling high-level processing.
+For texas instruments there are msp430, microchip PIC, and ATmel ATmega family but mostly people working in Embedded System recommend msp430 because it has a great selection of microcontrollers, and according to them  it has a great community online, and also texas instruments offers a lot of documentation and great examples for each and every peripheral that the microcontroller has and this includes code examples and documentation.
+
+
+'HISTORY
+Embedded systems have a rich history that spans several decades. Embedded systems have a history dating back to the 1960s. One notable development during that time was Charles Stark Draper's creation of an integrated circuit in 1961. This circuit was designed to reduce the size and weight of the Apollo Guidance Computer, which was responsible for digital operations on the Apollo Command Module and Lunar Module. The integration of this circuit into the computer helped astronauts gather real-time flight data.
+In 1965, Autonetics (now part of Boeing) developed the D-17B computer for the Minuteman I missile guidance system. This computer is widely recognized as the first mass-produced embedded system. When the Minuteman II entered production in 1966, the D-17B was replaced with the NS-17 missile guidance system, which extensively utilized integrated circuits. Another notable milestone occurred in 1968 when the Volkswagen 1600 became the first vehicle to incorporate an embedded system, using a microprocessor to control its electronic fuel injection system.
+During the late 1960s and early 1970s, the cost of integrated circuits decreased, leading to a significant increase in their usage. Texas Instruments developed the first microcontroller in 1971, which was the TMS1000 series. These microcontrollers, commercially available in 1974, included a 4-bit processor, read-only memory (ROM), and random-access memory (RAM), costing approximately $2 each when ordered in bulk.
+In 1971, Intel introduced the 4004, widely regarded as the first commercially available processor. This 4-bit microprocessor was primarily designed for calculators and small electronic devices, although it required additional memory and support chips. Intel followed up in 1972 with the 8-bit Intel 8008, which featured 16 KB of memory, and in 1974 with the Intel 8080, which had 64 KB of memory. The Intel 8080's successor, the x86 series, was released in 1978 and remains widely used today.
+The year 1987 saw the release of the first embedded operating system called VxWorks, developed by Wind River. This real-time operating system was followed by Microsoft's Windows Embedded CE in 1996. Embedded Linux products began appearing in the late 1990s, marking the start of Linux's presence in a wide range of embedded devices. Nowadays, Linux is utilized in nearly all embedded systems.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+'Fundamentals: - LABRADO
+
+Embedded systems are computer systems designed to perform specific tasks within larger systems. They are specialized for a certain purpose and are frequently integrated with other systems or devices. These systems are unique architecture and set parts allow them to do the task for which they were designed. 
+
+ Component of Embedded system:
+
+Microcontroller or Microprocessor - The central processing unit of an embedded system is usually a microcontroller or microprocessor.  These component execute the program instructions and perform the necessary computation  
+
+Memory - Embedded systems have different types of memory to store program instruction, data and variables. This includes read-only memory (ROM) for storing the firmware or program code permanently, random-access memory (RAM) for temporary data storage, and non-volatile memory like flash memory  for data retention.
+
+Embedded system architecture: 
+
+Firmware layer - is in charge of managing the hardware peripherals which may include communication interfaces, timers, interrupts, analog and digital converters, and input/output interfaces. It works directly with the hardware parts, employing its capabilities to do particular tasks.
+
+Application layer - interact with firmware layer and makes use of its low-level functionality and hardware control to carry out the activities that the system is designed to do. It provides a high-level software interface for developers to implement the particular features and behaviors of the embedded system while abstracting the complexity of the lower layers.
+Roles in Embedded system:
+
+
+Firmware/Software engineer - is responsible for developing and implementing the software components that control and manage the functionality of the embedded system. They work closely with hardware engineers, firmware developers, and other team members to create software solutions that interact with the underlying hardware.
+
+Hardware engineer - responsible for designing, creating and testing the system and hardware that go into an embedded system. They collaborate closely with firmware developers, software engineers, and other team members to produce effective embedded systems. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+'Design and Development - Alvarado
+
+
+Embedded systems have become an integral part of our daily lives, powering devices ranging from smartphones to smart home appliances.
+The objective of this report is to provide a comprehensive understanding of the design process, the step of the development, and OS 
+comparison that will be used in theembedded system.
+
+
+Here are the 4 types of Embedded System
+
+Stand-Alone Embedded System
+Real-Time Embedded System
+Networked Appliances
+Mobile devices
+
+
+
+Steps in the Embedded System Design Process
+
+Abstraction -- In this stage the problem related to the system is abstracted.
+
+Hardware -- Software Architecture -Proper knowledge of hardware and software to be known before starting any design process.
+
+Extra Functional Properties -- Extra functions to be implemented are to be understood completely from the main design.
+
+System Related Family of Design - When designing a system, one should refer to a previous system-related family of design.
+
+Modular Design -- Separate module designs must be made so that they can be used later on when required.
+
+Mapping - Based on software mapping is done. For example, data flow and program flow are mapped into one.
+
+User Interface Design -- In user interface design it depends on user requirements, environment analysis and function of the
+system. For example, on a mobile phone if we want to reduce the power consumption of mobile phones we take care of other parameters, 
+so that power consumption can be reduced.
+
+Refinement -- Every component and module must be refined appropriately so that the software team can understand. Architectural 
+description language is used to describe the software design.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ethical Considerations in Designing and Developing Embedded Systems
+
+Privacy and Data Protection -- Embedded systems often handle sensitive data, necessitating robust security measures and transparent data 
+collection practices toprotect individuals' privacy rights.
+
+Bias and Fairness -- Designing devices free from biases ensures fairness and equal treatment for all individuals, promoting inclusivity 
+and preventing discrimination.
+
+Accountability and Responsibility -- Implementing mechanisms for error reporting and clear delineation of responsibilities enhances 
+accountability and minimizes potential harm caused by embedded systems.
+
+Social Impact -- Considering the broader social implications of embedded systems, such as their effects on employment, inequality,
+and public safety, is crucial to ensure responsible design and address potential challenges.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     Operating System                      Key Features                                 Advantages                                        Disadvantages
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+        Linux                     Open-source, flexibility, stability      Large developer community, extensive support        Customization and configuration complexity
+       Android                  Feature-rich, extensive app ecosystem       Broad device compatibility, user-friendly        Higher resource requirements, limited real-time
+      FreeRTOS                   Small memory footprint, real-time            Widely used, determinism, lightweight            Limited tooling and debugging capabilities
+        QNX                         Reliability, high performance           Robust message-passing, safety-critical              Limited hardware and software support
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Applications or Uses of Embedded system: - DE CASTRO
+
+In many diverse goods, equipment, including sophisticated processes, including artificial intelligence (AI) and machine learning applications, embedded systems have an essential function. Today, embedded devices and software have an essential function in the operation of vehicles, household appliances, personal electronics, medical equipment, interactive kiosks, as well as other technology we use on a daily basis. This is due to the fact that embedded systems applications are now found in every sector and industry.
+Examples of applications of embedded systems as follows:
+Personal Electronics:
+Smartphones - Call handling, interface design, camera systems, and smart sensors are all powered by embedded systems.
+Gaming consoles - The gameplay features including interface design in well-known video game consoles are provided by embedded systems.
+In a case study, Xbox One is able to provide immersive gaming experiences, Microsoft's Xbox One gaming console uses an embedded technology. The gameplay processing, graphics rendering, audio output, as well as interface of the system are all handled by the embedded system, which is smoothly incorporated into the console.
+Medical Devices:
+Pacemakers - Embedded systems that track activity of the heart and send electrical impulses towards people who are suffering cardiac problems to control heartbeats.
+Ultrasound Scanners - In medical imaging systems such as this, embedded systems are in charge of processing and displaying medical pictures. Other medical imaging is: X-ray scanners and MRI systems.
+In a case study, Medtronic Insulin Pump is able to give exact insulin doses depending upon real-time blood sugar levels, these kinds of medical devices use embedded systems. The embedded system helps to verify blood sugar levels and modifies delivery of insulin to assist patients to better control their diabetes.
+Household Devices:
+Microwave ovens - Embedded systems that manage timers, temperature controls, cookery programs, as well as safety systems in these appliances.
+Coffee Makers - Brew procedures, temperature of the water, as well as customizing alternatives are all controlled by embedded systems.
+In a case study, Instant Pot Smart WIFI is a multi-purpose pressure cooker that allows users to monitor as well as control cooking from a distance. Its embedded system provides versatility and convenience by controlling timings, temperature regulation, including cooking routines.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+'Challenges and the future of embedded system: - RAYMUNDO 
+
+Embedded systems encounter a number of challenges that must be addressed during the design, development, and deployment processes. Here are some common issues and challenges  with embedded systems.
+
+Power management is critical for many embedded systems, especially those powered by batteries or depending on energy harvesting. It is difficult to reduce power consumption while retaining system functioning and performance. To optimize power consumption, techniques such as power gating, clock gating, and dynamic voltage scaling are frequently used.
+Vulnerabilities in security: Embedded systems are vulnerable to security risks such as unauthorized access, data breaches, and system manipulation. Embedded system security entails integrating strong authentication, encryption, and access control techniques, as well as addressing potential vulnerabilities at both the hardware and software levels.
+Integration of hardware and software: Embedded systems frequently combine hardware and software parts. Careful planning and execution are needed to coordinate the behavior of various hardware peripherals, drivers, and the operating system. When working with several hardware platforms, integrating software components like device drivers with the hardware can be challenging.
+ Fault tolerance and dependability: Many embedded systems are used in crucial applications where errors can have serious repercussions.  It's essential to guarantee fault tolerance and dependability. To increase system resilience, design elements including redundancy, error detection, correction, and fault recovery techniques must be used.
+	
+
+The field of embedded systems is constantly developing as a result of technological developments and emerging trends.
+
+Artificial Intelligence (AI) and Machine Learning (ML) - their capabilities are being integrated into embedded systems, allowing them to make intelligent judgments, adapt to changing settings, and give personalized experiences and opinions.
+Enhancements to cybersecurity - As embedded systems become more networked, there is a growing demand for effective cybersecurity solutions. Implementing cutting-edge security measures will be a future trend to safeguard against increasing threats and guarantee the integrity and confidentiality of data.
+Energy Efficiency and Sustainability -  The future of embedded systems will prioritize energy efficiency, combining power-saving methods and renewable energy sources to reduce the impact on the environment. This is due to the increased emphasis on sustainability.
+Software-Defined Systems -  The software-defined approach, which enables more flexibility, adaptability, and reconfigurability in response to changing requirements and surroundings, will become more common in embedded systems.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Literature review:
+Embedded system design is crucial for the development of industry, technology, and science, and it is an area that has significantly grown in recent years, both in academia and in industry. Embedded System (ES) refers to electronic equipment with a computing core which, unlike a personal computer, is designed to meet a specific function and is usually optimized to satisfy strict requirements of processing time, reliability, power consumption, size, and cost. With the advancement of research on the domains of Internet of Things (IoT), Computing Edge (CE) and Cloud Computing (CC) and their endless application possibilities, ESs have gained new roles and assumed unquestionable importance in our daily lives.
+Published in: IEEE Latin America Transactions ( Volume: 18, Issue: 02, February 2020)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Summary:
+Embedded systems have become an integral part of today's technology landscape, playing a vital role across multiple industries. This study aims to provide a comprehensive overview of embedded systems, covering their definition, characteristics, components, architecture, design process, applications, challenges, and future trends.
+In various domains such as automotive systems, consumer electronics, healthcare equipment, industrial automation, and smart home technologies, embedded systems are instrumental in enhancing functionality and user experience. Unlike general-purpose computers, embedded systems are purpose-built computing platforms with real-time constraints and limited resources. They are meticulously designed, leveraging microcontrollers, sensors, actuators, and memory components within a specific architecture.
+Designing embedded systems requires careful consideration of requirements, system architecture, hardware selection, and software development using appropriate programming languages and tools. Factors such as power consumption, dependability, and security are crucial in the design process. However, the development of embedded systems poses challenges due to hardware limitations, complex software, and integration issues.
+The future of embedded systems is shaped by emerging technologies like the Internet of Things (IoT), artificial intelligence (AI), and edge computing. Advancements in connectivity, security, and machine learning drive innovation in the field. As embedded systems continue to evolve, the possibilities of intelligent, interconnected devices and systems expand across various industries.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Conclusion and Recommendations:
+
+Across many industries, embedded systems are essential in today's technology environment. This study discusses its definition, traits, elements, architecture, design process, applications, difficulties, and trends for the future.
+
+Embedded systems are used to improve functionality and user experience in automotive systems, consumer electronics, healthcare equipment, industrial automation, and smart home technologies. Embedded systems are computing platforms created with a specific objective in mind, one that has real-time limitations and limited resources. They are distinct from general-purpose computers because of their specialized character and well-designed construction. Within a certain architecture, microcontrollers, sensors, actuators, and memory components collaborate.
+When designing embedded systems, requirements, system architecture, hardware selection, and software development utilizing the right programming languages and tools must all be carefully taken into account. Power consumption, dependability, and security are important design considerations. But creating embedded systems is difficult because of hardware limitations, complicated software, and integration problems. The future of embedded systems is shaped by emerging technologies like IoT, AI, and edge computing, with innovation being driven by improvements in connection, security, and machine learning.
+
+As embedded systems develop, more intelligent, networked devices and systems will be possible in a variety of industries. The full potential of embedded systems in fostering a more connected and technologically evolved world will be unlocked by addressing development hurdles, encouraging collaboration, and adjusting to changing trends. It is recommended that this research may be carried out by understanding it alongside mastering the technological advances that drive the embedded systems. Subsequently it is additionally suggested that the field be significantly improved. In doing so, it may benefit others as well as yourself because it gives the topic the flexibility and efficiency necessary to be able to regulate a particular function within the device in question. It can also learn more about embedded systems and find new ways to improve your understanding of them.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+References:
+
+Blumenscheid, B. (2021, June 4). 10 real life examples of embedded systems. Digi International.  https://www.digi.com/blog/post/examples-of-embedded-systems
+Daniel, B. (2022, March 24). What are embedded systems?. Trusted Computing Innovator. https://www.trentonsystems.com/blog/what-are-embedded-systems#:~:text=Digital%20cameras,washing%20machines%2C%20and%20microwave%20ovens
+TomaszHajduk. (2022, December 8). Embedded systems – examples of application: Blog solwit. Solwit. https://solwit.com/en/posts/embedded-systems-examples-of-application/
+Ben Lutkevich. (2023). Definition: Embedded System.
+https://www.techtarget.com/iotagenda/definition/embedded-system 
+
+Challenges and issues of embedded software development. Infopulse. (2023, January 13). 
+https://www.infopulse.com/blog/challenges-and-issues-of-embedded-software-development
+
+Kotunov, V. (2022, December 8). Address the challenges of embedded project development with the US. N. 
+https://www.n-ix.com/address-challenges-of-embedded-project-development/
+ 
+Bisinfotech. (2021, June 16). Top 5 trends in Embedded System Technology. Bisinfotech. https://www.bisinfotech.com/top-5-trends-in-embedded-system-technology/
+
+TomaszHajduk. (2023, May 22). The future of embedded systems for 2023 - forecasts and trends: Blog Solwit. Solwit. https://solwit.com/en/posts/the-future-of-embedded-systems-for-2023-forecasts-and-trends/
+
+Agarwal, T. (2020, April 21). Embedded System Design :Types, Design Process, and Its Examples. ElProCus - Electronic Projects for Engineering Students. https://www.elprocus.com/embedded-system-design/
+
+A Literature Review on Embedded Systems. (2020, February 1). IEEE Journals & Magazine | IEEE
+https://ieeexplore.ieee.org/document/9085271
+

@@ -1,7 +1,38 @@
+<<<<<<< HEAD
 Fundamentals:
+=======
+ Fundamental:
+>>>>>>> 308be965590c81cca2659d142cd56740349e1826
 
 Embedded systems are computer systems designed to perform specific tasks within larger systems. They are specialized for a certain purpose and are frequently integrated with other systems or devices. These systems are unique architecture and set parts allow them to do the task for which they were designed. 
 
  Component of Embedded system:
 
 Microcontroller or Microprocessor - The central processing unit of an embedded system is usually a microcontroller or microprocessor.  These components execute the program instructions and perform the necessary computation.  
+<<<<<<< HEAD
+=======
+
+Memory - Embedded systems have different types of memory to store program instruction, data, and variables. This includes read-only memory (ROM) for storing the firmware or program code permanently, random-access memory (RAM) for temporary data storage, and non-volatile memory like flash memory for data retention.
+
+Embedded system architecture: 
+
+Firmware layer - is in charge of managing the hardware peripherals which may include communication interfaces, timers, interrupts, analog and digital converters, and input/output interfaces. It works directly with the hardware parts, employing its capabilities to do particular tasks.
+
+Application layer - interacts with firmware layer and makes use of its low-level functionality and hardware control to carry out the activities that the system is designed to do. It provides a high-level software interface for developers to implement the particular features and behaviors of the embedded system while abstracting the complexity of the lower layers.
+Roles in Embedded system:
+
+
+Firmware/Software engineer - is responsible for developing and implementing the software components that control and manage the functionality of the embedded system. They work closely with hardware engineers, firmware developers, and other team members to create software solutions that interact with the underlying hardware.
+
+Hardware engineer - responsible for designing, creating and testing the system and hardware that goes into an embedded system. They collaborate closely with firmware developers, software engineers, and other team members to produce effective embedded systems. 
+
+Conclusion and Recommendations:
+
+Across many industries, embedded systems are essential in today's technological environment. This study discusses its definition, traits, elements, architecture, design process, applications, difficulties, and trends for the future.
+
+Embedded systems are used to improve functionality and user experience in automotive systems, consumer electronics, healthcare equipment, industrial automation, and smart home technologies. Embedded systems are computing platforms created with a specific objective in mind, one that has real-time limitations and limited resources. They are distinct from general-purpose computers because of their specialized character and well-designed construction. Within a certain architecture, microcontrollers, sensors, actuators, and memory components collaborate.
+When designing embedded systems, requirements, system architecture, hardware selection, and software development utilizing the right programming languages and tools must all be carefully taken into account. Power consumption, dependability, and security are important design considerations. But creating embedded systems is difficult because of hardware limitations, complicated software, and integration problems. The future of embedded systems is shaped by emerging technologies like IoT, AI, and edge computing, with innovation being driven by improvements in connection, security, and machine learning.
+
+As embedded systems develop, more intelligent, networked devices and systems will be possible in a variety of industries. The full potential of embedded systems in fostering a more connected and technologically evolved world will be unlocked by addressing development hurdles, encouraging collaboration, and adjusting to changing trends. It is recommended that this research may be carried out by understanding it alongside mastering the technological advances that drive embedded systems. Subsequently it is additionally suggested that the field be significantly improved. In doing so, it may benefit others as well as yourself because it gives the topic the flexibility and efficiency necessary to be able to regulate a particular function within the device in question. It can also learn more about embedded systems and find new ways to improve your understanding of them.
+
+>>>>>>> 308be965590c81cca2659d142cd56740349e1826
