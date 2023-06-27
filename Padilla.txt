@@ -53,4 +53,6 @@ primarily designed for calculators and small electronic devices, although it req
 followed up in 1972 with the 8-bit Intel 8008, which featured 16 KB of memory, and in 1974 with the Intel 8080, which had 64 KB of
 memory. The Intel 8080's successor, the x86 series, was released in 1978 and remains widely used today.
 
-The year 1987 saw the release of the first embedded operating system called VxWorks, developed by Wind River. This real-time operating system was followed by Microsoft's Windows Embedded CE in 1996. Embedded Linux products began appearing in the late 1990s, marking the start of Linux's presence in a wide range of embedded devices. Nowadays, Linux is utilized in nearly all embedded systems.
+The year 1987 saw the release of the first embedded operating system called VxWorks, developed by Wind River. This real-time operating
+system was followed by Microsoft's Windows Embedded CE in 1996. Embedded Linux products began appearing in the late 1990s, marking the
+start of Linux's presence in a wide range of embedded devices. Nowadays, Linux is utilized in nearly all embedded systems.
