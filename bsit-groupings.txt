@@ -11,7 +11,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Objective of the topic:
+'Objective of the topic:
 
 The goals of this embedded systems report are to provide a thorough overview of embedded systems, investigate their components and architecture, describe the design and development process, evaluate their applications and case studies, and identify obstacles and future trends.
 It also covers embedded system applications in automotive, consumer electronics, healthcare devices, industrial automation, and smart home technology.  
@@ -20,13 +20,13 @@ Furthermore, the topic discusses the process of creating embedded systems, inclu
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Scope of the topic:
+'Scope of the topic:
 This aims to promote an overview on the topic of embedded systems.
 The overall goal of this is to give knowledge and enhance the learners perspective towards embedded systems.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Introduction:  - PADILLA
+'Introduction:  - PADILLA
 Nowadays, Embedded systems are everywhere! Gotta curious why?
 An Embedded System is a combination of computer hardware and software components tightly integrated to control and monitor the operations of the device it is embedded in. The term "embedded" signifies that these systems are always functioning as an integral part of a complete device. Embedded systems may also function within a larger system. The systems can be programmable or have a fixed functionality. Embedded systems play a critical role in a wide range of products, machines, and intelligent operations, including applications involving machine learning and artificial intelligence. 
 The hardware component of an embedded system consists of essential components such as microprocessors or microcontrollers, memory, input/output interfaces, sensors, actuators, and other peripheral devices tailored to the specific application's requirements. On the other hand, the software component comprises the embedded operating system, device drivers, application-specific software, and firmware. These software components work together to enable the embedded system to carry out its designated functions. The software is typically highly specialized, designed to cater specifically to the unique purpose served by the embedded system.
@@ -35,7 +35,7 @@ Prominent technology companies, such as Apple, IBM, Intel, and Texas Instruments
 For texas instruments there are msp430, microchip PIC, and ATmel ATmega family but mostly people working in Embedded System recommend msp430 because it has a great selection of microcontrollers, and according to them  it has a great community online, and also texas instruments offers a lot of documentation and great examples for each and every peripheral that the microcontroller has and this includes code examples and documentation.
 
 
-HISTORY
+'HISTORY
 Embedded systems have a rich history that spans several decades. Embedded systems have a history dating back to the 1960s. One notable development during that time was Charles Stark Draper's creation of an integrated circuit in 1961. This circuit was designed to reduce the size and weight of the Apollo Guidance Computer, which was responsible for digital operations on the Apollo Command Module and Lunar Module. The integration of this circuit into the computer helped astronauts gather real-time flight data.
 In 1965, Autonetics (now part of Boeing) developed the D-17B computer for the Minuteman I missile guidance system. This computer is widely recognized as the first mass-produced embedded system. When the Minuteman II entered production in 1966, the D-17B was replaced with the NS-17 missile guidance system, which extensively utilized integrated circuits. Another notable milestone occurred in 1968 when the Volkswagen 1600 became the first vehicle to incorporate an embedded system, using a microprocessor to control its electronic fuel injection system.
 During the late 1960s and early 1970s, the cost of integrated circuits decreased, leading to a significant increase in their usage. Texas Instruments developed the first microcontroller in 1971, which was the TMS1000 series. These microcontrollers, commercially available in 1974, included a 4-bit processor, read-only memory (ROM), and random-access memory (RAM), costing approximately $2 each when ordered in bulk.
@@ -44,7 +44,7 @@ The year 1987 saw the release of the first embedded operating system called VxWo
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Fundamentals: - LABRADO
+'Fundamentals: - LABRADO
 
 Embedded systems are computer systems designed to perform specific tasks within larger systems. They are specialized for a certain purpose and are frequently integrated with other systems or devices. These systems are unique architecture and set parts allow them to do the task for which they were designed. 
 
@@ -66,15 +66,15 @@ Firmware/Software engineer - is responsible for developing and implementing the 
 
 Hardware engineer - responsible for designing, creating and testing the system and hardware that go into an embedded system. They collaborate closely with firmware developers, software engineers, and other team members to produce effective embedded systems. 
 
--------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Design and Development
+'Design and Development - Alvarado
+
 
 Embedded systems have become an integral part of our daily lives, powering devices ranging from smartphones to smart home appliances.
 The objective of this report is to provide a comprehensive understanding of the design process, the step of the development, and OS 
 comparison that will be used in theembedded system.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Here are the 4 types of Embedded System
 
@@ -83,9 +83,9 @@ Real-Time Embedded System
 Networked Appliances
 Mobile devices
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Steps in the Embedded System Design Process - Alvarado
+
+Steps in the Embedded System Design Process
 
 Abstraction -- In this stage the problem related to the system is abstracted.
 
@@ -150,7 +150,7 @@ In a case study, Instant Pot Smart WIFI is a multi-purpose pressure cooker that 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Challenges and the future of embedded system: - RAYMUNDO 
+'Challenges and the future of embedded system: - RAYMUNDO 
 
 Embedded systems encounter a number of challenges that must be addressed during the design, development, and deployment processes. Here are some common issues and challenges  with embedded systems.
 
